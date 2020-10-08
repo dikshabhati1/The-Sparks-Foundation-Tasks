@@ -8,3 +8,7 @@ Predict the percentage of marks of an student based on the number of study hours
 **Prediction using Unsupervised ML**<br>
 From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually<br>
 Data Link: https://bit.ly/3kXTdox
+
+# Task 3
+**Prediction using Decision Tree Algorithm**<br>
+For the given 'Iris' dataset , create the Desicion Tree classifier and visualize it graphically.
